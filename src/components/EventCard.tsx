@@ -84,7 +84,7 @@ export default function EventCard({
                     href={shotgunLink}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="flex items-center justify-center gap-2 w-full px-6 py-3 bg-gradient-to-r from-blue-600 to-purple-600 rounded-xl font-semibold hover:from-blue-500 hover:to-purple-500 transition-all duration-300 hover:scale-105 hover:shadow-lg"
+                    className="flex items-center justify-center gap-2 w-full px-6 py-3 bg-blue-600 rounded-xl font-semibold hover:bg-blue-500 transition-all duration-300 hover:scale-105 hover:shadow-lg"
                 >
                     Shotgun
                     <ExternalLink size={18} />

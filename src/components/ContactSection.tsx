@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Send, Mail, Phone, MapPin, Instagram, Linkedin, Facebook, CreditCard, Map } from 'lucide-react';
+import { Send, Mail, Phone, MapPin, Instagram, Linkedin, Facebook, CreditCard } from 'lucide-react';
 import siteConfig from '../config/siteConfig';
 
 export default function ContactSection() {
